@@ -20,7 +20,7 @@ class GameLoop:
             Valores.tela.fill([100, 100, 100])
             Valores.todos_sprites.draw(Valores.tela)
             pg.display.update()
-            pg.display.set_caption("Mate os Slugans!")
+            pg.display.set_caption("Clicker RedSlugan")
 
 
             if Valores.estar_menu:
